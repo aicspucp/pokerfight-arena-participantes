@@ -1,0 +1,16 @@
+# Binarios y salidas de la arena
+bin/
+resultados/
+coverage.out
+coverage.html
+
+# Caché del entrenamiento de Gato Darwin (se regenera sola)
+bots/darwin/biblioteca.cache
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+node_modules/

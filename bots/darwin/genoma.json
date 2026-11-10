@@ -1,0 +1,27 @@
+{
+  "bot": "Gato Darwin",
+  "generacion": 80,
+  "aptitud_bb_100": 208.1827,
+  "semilla": 2026,
+  "fecha": "2026-10-25 22:08",
+  "genes": {
+    "aversion_riesgo": 0.0125,
+    "bono_posicion": 0.0302,
+    "farol_post": 0.1795,
+    "farol_pre": 0.2814,
+    "farol_subida": 0.0066,
+    "margen_pago_post": 1.1816,
+    "margen_pago_pre": 0.695,
+    "multijugador": 0.3453,
+    "presion": 0.1357,
+    "tam_apertura": 2.8084,
+    "tam_farol": 0.7933,
+    "tam_subida": 0.9561,
+    "tam_valor": 0.9259,
+    "umbral_allin": 0.8926,
+    "umbral_apuesta_post": 0.6803,
+    "umbral_apuesta_pre": 0.59,
+    "umbral_subida_post": 0.6523,
+    "umbral_subida_pre": 0.6513
+  }
+}
